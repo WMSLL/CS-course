@@ -41,6 +41,10 @@ namespace ConsoleApp1
             Console.WriteLine("dd"=="dd");
             Console.WriteLine("dd" != "dod");
 
+
+            Console.WriteLine("dd" == "dd");
+            Console.WriteLine("dd" != "dod");
+
             // char b = '\u1234'; // Номер какого нить символа нпример смайла
 
             // Console.WriteLine(b);
